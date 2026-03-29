@@ -42,3 +42,28 @@ cd scripts
 python3 auth_log_analyzer.py
 python3 syslog_analyzer.py
 python3 kernel_log_analyzer.py
+
+
+
+
+
+
+
+
+
+Requirements
+Linux OS (Debian/Ubuntu/Kali recommended)
+Python 3
+ELK Stack: Elasticsearch, Logstash, Kibana
+Filebeat
+
+
+
+
+
+Highlights
+SSH brute-force detection using auth logs
+System activity monitoring via syslog
+Kernel-level event monitoring
+Real-time dashboards in Kibana
+Alerts for suspicious activity
