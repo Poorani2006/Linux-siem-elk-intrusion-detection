@@ -11,6 +11,15 @@ scripts/
 ├── syslog_analyzer.py
 ├── kernel_log_analyzer.py
 
+
+
+
+
+
+
+
+
+
 screenshots/
 ├── Authentication Log Image
 ├── kernel log image
